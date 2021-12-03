@@ -1,7 +1,8 @@
-# Awesome Project Build with TypeORM
+#Facile Challenge Nodejs
 
-Steps to run this project:
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+Tecnologias utilizadas
+1. TypeScript
+2. ORM Sequelize
+3. Express
+4. JWT
